@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "nUtXcsPWJLmPWEdncPf1u9R1AGjRzGjq9LOw0BxI0kcXCTGugpFt2xxf7rd1L3GkXOdcuMBfPoK6STFeVgjhdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\huhuhu\\Documents\\ConsoleApp5\\ConsoleApp5\\ConsoleApp5.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\huhuhu\\Documents\\ConsoleApp5\\ConsoleApp5\\obj\\project.nuget.cache : Found invalid data while decoding."
+    }
+  ]
+}
